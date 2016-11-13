@@ -15,4 +15,6 @@
 /vendor/
 /web/bundles/
 /Composer/*
-/Composer/
+/.idea/
+/.idea/*
+.idea/
